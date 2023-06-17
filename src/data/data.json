@@ -5,7 +5,8 @@
     "descripcion": "Roble con terminacion de alpaca",
     "categoria": "Mates",
     "imagen": "https://th.bing.com/th/id/OIP.27mpu7mbHJ6oJBstWg4XjAAAAA?pid=ImgDet&rs=1",
-    "precio": 12000
+    "precio": 12000,
+    "stock": 20
 },
 {
     "id": 2,
@@ -13,7 +14,8 @@
     "descripcion": "Calabaza Pulida con terminaciones de auminio",
     "categoria": "Mates",
     "imagen": "https://http2.mlstatic.com/mates-de-alpaca-y-calabaza-D_NQ_NP_20042-MLC20182036741_102014-F.jpg",
-    "precio": 9500
+    "precio": 9500,
+    "stock": 20
 },
 {
     "id": 3,
@@ -21,7 +23,8 @@
     "descripcion": "Termo Stanley original, 1 lts- Mantiene el agua caliente y fria hasta 14hs",
     "categoria": "Termos",
     "imagen": "https://th.bing.com/th/id/OIP.sXPdbRdVHQOJN65M4WdMtAHaHa?pid=ImgDet&rs=1",
-    "precio": 30000
+    "precio": 30000,
+    "stock": 20
 },
 {
     "id": 4,
@@ -29,7 +32,8 @@
     "descripcion": "Termo Lusqtoff, 750 ml - Mantiene el agua caliente y fria hasta 14hs - Viene de regalo set yerbero y azucarero",
     "categoria": "Termos",
     "imagen": "https://http2.mlstatic.com/D_NQ_NP_642727-MLA51673367288_092022-V.jpg",
-    "precio": 25000
+    "precio": 25000,
+    "stock": 20
 },
 {
     "id": 5,
@@ -37,7 +41,8 @@
     "descripcion": "Yerba La Merced de distinta variedades (500 gr)",
     "categoria": "Yerbas",
     "imagen": "https://th.bing.com/th/id/R.57375c84b47c89330ddd3ed2ee893c4b?rik=uARfKG6E6n%2bv0Q&riu=http%3a%2f%2f3.bp.blogspot.com%2f_5MWdyOdTgk0%2fS-xfNqya1BI%2fAAAAAAAAAEY%2fVUh35g1NPJk%2fw1200-h630-p-k-no-nu%2fLM500g.jpg&ehk=YGL7hGRAfQUC9oFO%2brPU7ikoltRSIr4ae2ZjFsBn5Dg%3d&risl=&pid=ImgRaw&r=0",
-    "precio": 2600
+    "precio": 2600,
+    "stock": 20
 },
 {
     "id": 6,
@@ -45,7 +50,8 @@
     "descripcion": "Yerba organica cordobesa con distintas Variedades de yuyos de las sierras cordobesas",
     "categoria": "Yerbas",
     "imagen": "https://th.bing.com/th/id/OIP.AXXPTnR5M9i-cAc4_RBVJQHaHa?pid=ImgDet&rs=1",
-    "precio": 1800
+    "precio": 1800,
+    "stock": 20
 }
 
 ]

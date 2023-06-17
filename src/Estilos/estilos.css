@@ -120,3 +120,41 @@
     margin-top: 2rem;
     font-weight: 600;
 }
+
+.item-count{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+
+}
+.item-count button, .agregar-al-carrito {
+    background-color: var(--clr-main);
+    border: 0;
+    width: 2rem;
+    height: 2rem;
+    color: white;
+    border-radius: .5rem;
+    cursor: pointer;
+    font-size: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1;
+    border: 2px solid var(--clr-main);
+    transition: .3s;
+
+}
+.item-count button:hover, .agregar-al-carrito:hover{
+    background-color: white;
+    color: black;
+
+
+}
+.agregar-al-carrito{
+    width: auto;
+    height: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+}
